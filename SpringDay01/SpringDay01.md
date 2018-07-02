@@ -2,7 +2,6 @@
 
 # Spring
 
-
 ##  Java Bean
 
 类的定义,符合如下规则的Java对象称为Java Bean
