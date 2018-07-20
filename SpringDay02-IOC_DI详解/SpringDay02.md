@@ -1,4 +1,4 @@
-2018年6月15日  Spring Day02
+982018年6月15日  Spring Day02
 
 ## Bean 生命周期与延迟实例化
 
@@ -35,6 +35,7 @@ DI:
 3. DI主要有两种注入方式，即Setter注入和构造器注入
 
 Setter注入(Bean属性注入)案例:
+
 
 ![](imgs/1.png)
 
